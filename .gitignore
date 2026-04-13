@@ -1,10 +1,5 @@
-# Cocos Creator generated files
-library/
-local/
-temp/
-build/
-native/
-profiles/v2/packages/
+# Build output
+dist/
 
 # OS files
 .DS_Store
