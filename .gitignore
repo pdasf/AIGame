@@ -1,0 +1,26 @@
+# Cocos Creator generated files
+library/
+local/
+temp/
+build/
+native/
+profiles/v2/packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
